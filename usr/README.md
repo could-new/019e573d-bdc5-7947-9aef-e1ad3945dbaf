@@ -3,6 +3,7 @@
 A cross-platform Flutter application that implements a vertical scrolling video feed similar to YouTube Shorts or TikTok.
 
 ## Features
+- User profile setup screen on app start to collect basic details.
 - Infinite vertical scrolling feed using PageView.
 - Simulated video/photo content areas with distinct background colors.
 - Interactive action buttons (like, comment, share).
